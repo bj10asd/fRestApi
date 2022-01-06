@@ -1,0 +1,16 @@
+{
+"users": [
+{"id": 1, "name": "jose terrazas", "username": "bj10asd", "email": "josema@gmail.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+{"id": 2, "name": "cristian martinez", "username": "dr0cm", "email": "dr0cm@gmail.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+{"id": 3, "name": "ismael orozco", "username": "iorozco", "email": "iorozco@gmail.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"}
+],
+  "posts": [
+    { "id": 1, "title": "POR QUE ADOPTAR ANIMALES?", "body": "pienso que si", "userId": "1" },
+    { "id": 2, "title": "que sobre el calentamiento ?", "body": "por que si", "userId": "1" },
+    { "id": 3, "title": "crear mi propia empresa ?", "body": "es lo mejor", "userId": "2"  }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
